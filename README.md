@@ -8,6 +8,7 @@ I'm a passionate developer who enjoys building web applications and learning mod
 
 - 🔭 Currently working on personal web projects
 - 🌱 Learning React and modern frontend development
+- 🤝 Frequently assist fellow learners by helping them understand concepts
 
 ## 🛠️ Tech Stack
 
